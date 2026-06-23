@@ -1,3 +1,3 @@
-# web_ar_dummy
+# Mapping the Invisible __ Co-Vision 
 
-Lauren Moffatt 2026
+shoeg / Jaume Vidal / Lauren Moffatt 2024-2026
