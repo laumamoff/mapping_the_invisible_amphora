@@ -111,7 +111,7 @@ export function initUI(keys, graphVars, readoutVars, bay, secondsPerDayMs) {
   });
 
   const info = el("div", "infobar", dash);
-  el("span", "ib-title", info, "Mapping The Invisible");
+  el("span", "ib-title", info, "Mapping the Invisible");
   const ibCenter = el("span", "ib-center", info);
   _bayLabel = el("span", "ib-bay", ibCenter, bayName(_bay)); // static label (no longer switches/restarts)
   el("span", "ib-sep", ibCenter, "|");
